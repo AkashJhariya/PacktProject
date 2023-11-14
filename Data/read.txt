@@ -1,0 +1,3 @@
+1. For Automation tool I have used Selenium WebDriver and for Reporting I was using Extent Reports but it is not working fine so I have just add
+the dependency for it and written the code how to generate the report.
+2. Run the code as testNg.

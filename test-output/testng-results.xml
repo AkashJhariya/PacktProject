@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-14T14:58:43 IST" name="Suite" finished-at="2023-11-14T14:59:33 IST" duration-ms="49466">
+    <groups>
+    </groups>
+    <test started-at="2023-11-14T14:58:43 IST" name="Test" finished-at="2023-11-14T14:59:33 IST" duration-ms="49466">
+      <class name="com.qa.Packt.BrowserPackt">
+        <test-method is-config="true" signature="openapp(org.testng.ITestContext)[pri:0, instance:com.qa.Packt.BrowserPackt@434a63ab]" started-at="2023-11-14T14:59:18 IST" name="openapp" finished-at="2023-11-14T14:59:21 IST" duration-ms="3390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@33a3c44a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="browser()[pri:0, instance:com.qa.Packt.BrowserPackt@434a63ab]" started-at="2023-11-14T14:59:21 IST" name="browser" finished-at="2023-11-14T14:59:32 IST" duration-ms="11238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.qa.Packt.BrowserPackt@434a63ab]" started-at="2023-11-14T14:59:32 IST" name="closeApp" finished-at="2023-11-14T14:59:33 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.qa.Packt.BrowserPackt -->
+      <class name="com.qa.Packt.HomePagePositioning">
+        <test-method is-config="true" signature="openapp(org.testng.ITestContext)[pri:0, instance:com.qa.Packt.HomePagePositioning@37d4349f]" started-at="2023-11-14T14:59:01 IST" name="openapp" finished-at="2023-11-14T14:59:05 IST" duration-ms="4450" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@33a3c44a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="positioning()[pri:0, instance:com.qa.Packt.HomePagePositioning@37d4349f]" started-at="2023-11-14T14:59:05 IST" name="positioning" finished-at="2023-11-14T14:59:17 IST" duration-ms="11975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positioning -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.qa.Packt.HomePagePositioning@37d4349f]" started-at="2023-11-14T14:59:17 IST" name="closeApp" finished-at="2023-11-14T14:59:18 IST" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.qa.Packt.HomePagePositioning -->
+      <class name="com.qa.Packt.NavigationPackt">
+        <test-method is-config="true" signature="openapp(org.testng.ITestContext)[pri:0, instance:com.qa.Packt.NavigationPackt@5b03b9fe]" started-at="2023-11-14T14:58:49 IST" name="openapp" finished-at="2023-11-14T14:58:53 IST" duration-ms="3466" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@33a3c44a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="navigation()[pri:0, instance:com.qa.Packt.NavigationPackt@5b03b9fe]" started-at="2023-11-14T14:58:53 IST" name="navigation" finished-at="2023-11-14T14:59:00 IST" duration-ms="7688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.qa.Packt.NavigationPackt@5b03b9fe]" started-at="2023-11-14T14:59:00 IST" name="closeApp" finished-at="2023-11-14T14:59:01 IST" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.qa.Packt.NavigationPackt -->
+      <class name="com.qa.Packt.TitlePackt">
+        <test-method is-config="true" signature="openapp(org.testng.ITestContext)[pri:0, instance:com.qa.Packt.TitlePackt@16610890]" started-at="2023-11-14T14:58:43 IST" name="openapp" finished-at="2023-11-14T14:58:48 IST" duration-ms="4791" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@33a3c44a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="title()[pri:0, instance:com.qa.Packt.TitlePackt@16610890]" started-at="2023-11-14T14:58:48 IST" name="title" finished-at="2023-11-14T14:58:49 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.qa.Packt.TitlePackt@16610890]" started-at="2023-11-14T14:58:49 IST" name="closeApp" finished-at="2023-11-14T14:58:49 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.qa.Packt.TitlePackt -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
